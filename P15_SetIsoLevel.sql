@@ -1,0 +1,6 @@
+SET NOCOUNT ON
+USE Project15
+
+UPDATE Project15.dbo.TIL
+SET TILS = N'$(B)'
+
